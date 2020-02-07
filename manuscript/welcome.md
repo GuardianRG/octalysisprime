@@ -20,10 +20,12 @@ I took a brief look--burying myself in analytics is something I am careful to av
 ![January is new high-water mark for videos watched](/resources/Jan2020videos.png)
 
 Total Octalysis Prime Videos watched: 332,000
-Geomons caught: 10,900
-Messages sent on Slack: 95k 
+Geomons caught: 35,000
+Messages sent on Slack: 94,000 
 
 For what it's worth, my personal Key Performance Metric as the Community Manager is...yes, Retention, which can easily be measured by noting monthly churn. 
+
+We know from Yu-kai's work and the Octalysis framework, however, that a term like 'retention' or 'monthly churn' is not very human-focused. To give an extreme example: If all I did as the Community Manager was bribe members to stay or threaten them if they suggested leaving, my job wouldn't be fulfilling and worse, these tactics could backfire.
 
 From a gamified work perspective, Yu-kai and I have worked together to find not only this Key Performance Metric, but also an understanding of how we work together--he supporting my work, and I offering new ideas and executing them--which involves a conversation about how my role should revolve around and evolve with respect to that KPI, all the while maintaining a certain level of autonomy and creativity. The development of this Wiki has come about precisely as a result of this conversation we have as employer-employee. Yu-kai said, in a meeting, "I think it's time for a Wiki," and I said, "I think I'd like to dig into that, and I think all of you (my teammates) should contribute to it, but I'd like to get started on it." And so the Wiki was conceived. Now, in keeping with this same "conversation" around how we gamify our work, the duration in time between conception and birth of this Wiki should be minimal. How it looks and feels from the moment of its birth going forward, as it grows, should also change. 
 

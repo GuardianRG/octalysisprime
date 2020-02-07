@@ -1,5 +1,48 @@
 # Welcome to Octalysis Prime
 
+*insert words here from Yu-kai Chou* (could bring from dedication of Actionable Gamification)
+
+hope you enjoy this Wiki primarily authored by our Community Manager, Erik. 
+
+
+## AKA the Wiki
+
+In the second half of 2019 our product team found a great flow and was able to release numerous updates to the Octalysis Prime Island. Annual member Frank Parker noticed in a recent Office Hour that releases tend to happen on Tuesdays, as part of his larger commentary on enjoying our non-announcement of updates to the Island, whether that be a new video, geomon, item, or altogether new feature.
+
+During this time as the Community Manager, I was watching our primary hangout spot in the Tavern and main channel for Island Feedback (for now, on Slack), where I noticed a mixture of technical feedback, feature requests, and questions about how things worked. How might we begin to respond to this deluge? (Niels den Daas, another annual member, shared with me in a February 2020 video call that public roadmap might serve the curiosity of the feature requests, which was a start.)
+
+But how to address technical questions, strategy queries, guidance on learning pathways? 
+
+Instead of overly trusting my gut, I went to the analytics: 
+
+I took a brief look--burying myself in analytics is something I am careful to avoid so as not to become married to previous ideas about what is important--and I was surprised to see certain top-level results: 
+
+![January is new high-water mark for videos watched](/resources/Jan2020videos.png)
+
+Total Octalysis Prime Videos watched: 332,000
+Geomons caught: 10,900
+Messages sent on Slack: 95k 
+
+For what it's worth, my personal Key Performance Metric as the Community Manager is...yes, Retention, which can easily be measured by noting monthly churn. 
+
+From a gamified work perspective, Yu-kai and I have worked together to find not only this Key Performance Metric, but also an understanding of how we work together--he supporting my work, and I offering new ideas and executing them--which involves a conversation about how my role should revolve around and evolve with respect to that KPI, all the while maintaining a certain level of autonomy and creativity. The development of this Wiki has come about precisely as a result of this conversation we have as employer-employee. Yu-kai said, in a meeting, "I think it's time for a Wiki," and I said, "I think I'd like to dig into that, and I think all of you (my teammates) should contribute to it, but I'd like to get started on it." And so the Wiki was conceived. Now, in keeping with this same "conversation" around how we gamify our work, the duration in time between conception and birth of this Wiki should be minimal. How it looks and feels from the moment of its birth going forward, as it grows, should also change. 
+
+Maybe you'd like an example of how the Wiki will change over time. Well, if you read an early version of the Wiki (the OP FAQ), you probably noticed numerous gaps. You might have thought, Why is the OP team emphasizing this set of questions (geared toward new members) rather than describing the intricacies of later stage Powerups? And this was a good question. Well, without directly answering why we did that, you will see that this Wiki does indeed include lengthy discussions about each of the Powerups. 
+
+(One of our hesitations about publishing overly much about Octalysis Prime Strategy--that is, how to best gain EXP, how to best acquire Chou Coins and join the 1%, or how to best learn about gamification so as to complete your Octalysis Level I or Level II Certificate--is that we didn't want to steal our members' destinies. For some player types, there is irreplaceable value in the discovery of a path he or she wants to take around and through the Island. In writing this Wiki, we believe that most of this explorer player type will not spend too much time in this Wiki, because they won't need it to have an energizing and motivating experience. However, perhaps you, who read this now, are among the player types who enjoy having some guidance...When the Student is ready, the Teacher appears...maybe you see this Wiki as a kind of teacher.)
+
+
+
+
+
+the final analysis :) you're way more powerful...in time, you might become OP (overpowered) by starting your journey with OP (Octalysis Prime).
+
+
+
+In late 2019 it became apparent that it was long past due to create  the OP team started to see that ... we needed WIKI
+
+
+
 If you're already part of OP, you probably have a good idea about what Gamification is. If not, a good place to start is with Yu-kai Chou's book, [Actionable Gamification: Beyond Points, Badges, & Leaderboards](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049) 
 
 *Actionable Gamification* is also available as a Downloadable Item within Octalysis Prime, for 10,000 Chou Coins, which can be achieved in a relatively short time span even as a Freemium member. Much more to come on Downloadable Items when we discuss how Octalysis Prime caters to various learning styles with video content as primary and summaries, spreadsheets, member challenges, and quizzes as secondary learning options. 

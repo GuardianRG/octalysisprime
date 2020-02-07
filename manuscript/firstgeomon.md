@@ -38,3 +38,9 @@ Rules
 
 Strategy
 
+
+## Set the Trap
+
+![Try Setting a Trap](/resources/trapset.png)
+
+Here we go! 

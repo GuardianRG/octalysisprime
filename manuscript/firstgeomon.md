@@ -43,4 +43,11 @@ Strategy
 
 ![Try Setting a Trap](/resources/trapset.png)
 
-Here we go! 
+> Trap is set!
+>
+> Tries: 3 out of 3
+> This is your last day and the trap hasn’t captured anything yet.
+>
+> IMPORTANT: If the trap captures a geomon, you will have 48 hours to get it out of the trap and into your collection or it will escape!
+
+Notice in the above that this trap attempt is 3 out of 3 (the previous attempts haven't captured a geomon). 

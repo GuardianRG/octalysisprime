@@ -1,8 +1,10 @@
 welcome.md
+international.md
 landing.md
 puzzle.md
 firstvideo.md
 firstgeomon.md
 firstchallenge.md
+economy.md
 powerups.md
 membershiptypes.md

@@ -26,3 +26,15 @@ what are the human functions served by mythology
 
 
 200,000 years, ice cave bears 
+
+
+## Animations
+
+
+
+## Pets
+
+Rules
+
+Strategy
+

@@ -1,10 +1,10 @@
 # Welcome to Octalysis Prime
 
-*This book is dedicated to those who passionately believe in something and have the courage to pursue it in the face of circumstantial obstacles. We are surrounded by social and economic systems that are designed by others long agggo to fulfill their own dreams, but some individuals manage to take a leap of faith, risk social rejection and even persecution in order to create more meaning in their own lives and the lives of those around them.* 
+Yu-kai wrote the following words in the introduction to [Actionable Gamification: Beyond Points, Badges, & Leaderboards](), and I believe they apply to this book as well.
+
+*This book is dedicated to those who passionately believe in something and have the courage to pursue it in the face of circumstantial obstacles. We are surrounded by social and economic systems that are designed by others long ago to fulfill their own dreams, but some individuals manage to take a leap of faith, risk social rejection and even persecution in order to create more meaning in their own lives and the lives of those around them.* 
 
 *You inspire the world and move humanity forward. I salute you for doing what I continuously strive for but may never fully reach. I hope this book will help you on your journey towards making a difference.*
-
-Yu-kai wrote the following words in the introduction to [Actionable Gamification: Beyond Points, Badges, & Leaderboards](), and I believe they apply to this book as well.
 
 ![Yu-kai shows off his book, now available in hardcover & on Audible](/resources/agb01.png)
 
@@ -19,7 +19,7 @@ In the second half of 2019 our product team found a great flow and was able to r
 
 ![Ulric finds & shares new items on OP Slack](/resources/memberdiscovery.png)
 
-During this time as the Community Manager, I was watching our primary hangout spot in the Tavern and main channel for Island Feedback (for now, on Slack), where I noticed a mixture of technical feedback, feature requests, and questions about how things worked. How might we begin to respond to this deluge? (Niels den Daas, another annual member, shared with me in a February 2020 video call that public roadmap might serve the curiosity of the feature requests, which was a start.)
+During this time as the Community Manager, I was watching our primary hangout spot in the Tavern and main channel for Island Feedback (for now, on Slack), where I noticed a mixture of technical feedback, feature requests, and questions about how things worked. How might we begin to respond to this deluge? (Niels den Daas, another annual member, shared with me in a February 2020 video call that a public roadmap might serve the curiosity of the feature requests, which was a start.)
 
 But how to address technical questions, strategy queries, guidance on learning pathways? 
 

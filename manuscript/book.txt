@@ -1,4 +1,5 @@
 welcome.md
+invest.md
 international.md
 landing.md
 puzzle.md

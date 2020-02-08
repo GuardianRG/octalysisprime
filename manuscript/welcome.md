@@ -13,7 +13,9 @@ My name is Erik van Mechelen and I've worked with Yu-kai for about four years. I
 This guide will get you started in exploring Octalysis Prime, which is the best way to enter into further exploration of gamification and behavior design.
 
 
-## AKA the Wiki
+## Aka the Wiki
+
+*If you go back to the Table of Contents, you can click on any section in this book to jump to that section.*
 
 In the second half of 2019 our product team found a great flow and was able to release numerous updates to the Octalysis Prime Island. Annual member Frank Parker noticed in a recent Office Hour that releases tend to happen on Tuesdays, as part of his larger commentary on enjoying our non-announcement of updates to the Island, whether that be a new video, geomon, item, or altogether new feature.
 

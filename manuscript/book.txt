@@ -3,7 +3,7 @@ invest.md
 international.md
 landing.md
 puzzle.md
-firstvideo.md
+octalysiscore.md
 firstgeomon.md
 firstchallenge.md
 economy.md

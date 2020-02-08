@@ -16,3 +16,14 @@ The ship name doesn't affect your Octalysis Prime journey, although it does give
 
 ![Enter the Core](/resources/enterthecore.png)
 
+
+
+Free the Companion
+
+Thank you for freeing me!
+In return, I will help you navigate
+the island like a personal companion.
+
+I can keep track of your skill growth,
+store coins for you, and help you
+unlock new powers on this island.

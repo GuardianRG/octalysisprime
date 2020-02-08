@@ -12,6 +12,10 @@ My name is Erik van Mechelen and I've worked with Yu-kai for about four years. I
 
 This guide will get you started in exploring Octalysis Prime, which is the best way to enter into further exploration of gamification and behavior design.
 
+![OP member Ashlin Parker performs in New York](/resources/ashlinparker01.png)
+
+If you like to listen to music while reading like I do, you might try the [Ellis Marsalis Quintet Live at Dizzy's in New York, Nov 2016](https://www.youtube.com/watch?v=brkd44ERuxQ) featuring **Ashlin Parker**, an Octalysis Prime member, on Trumpet. (Ashlin uses inspiration from the Octalysis framework in his Jazz History course at Tulane to reflect on quotations from jazz greats.)
+
 
 ## Aka the Wiki
 

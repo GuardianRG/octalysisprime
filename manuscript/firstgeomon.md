@@ -38,6 +38,8 @@ Rules
 
 Strategy
 
+If many other users have set the same type of Geomon as a pet, then your Geomon will be less effective.
+
 
 ## Set the Trap
 

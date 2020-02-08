@@ -31,6 +31,10 @@ I took a brief look--burying myself in analytics is something I am careful to av
 
 ![January is new high-water mark for videos watched](/resources/Jan2020videos.png)
 
+| Videos Watched  | Geomons Caught  | Messages Sent on Slack  |
+|---|---|---|
+| 332,000  | 35,000  | 94,000  |
+
 Total Octalysis Prime Videos watched: 332,000
 Geomons caught: 35,000
 Messages sent on Slack: 94,000 

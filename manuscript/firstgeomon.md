@@ -38,11 +38,59 @@ When you set a Mystical as a pet, it will manifest in the lower-right of your av
 
 ## Pets
 
-Rules
+**Rules**
 
-Strategy
+- Choosing a Geomon as a pet will give the player some XP boost
+- The boost is a function of the Geomon RARITY, MODIFIER and DOMINANT CDs
+- The MODIFIERS are a function of the number of that particular Geomon set as a Geomon pet by any user
+- The final XP boost should be applied to all DOMINANT CDs of that particular Geomon (rounded up)
+- Every pet Geomon will have a STAMINA associated with it - the time that geomon will remain active as a pet
+- Every pet Geomon will have a RESTING associated with it - the time before you can choose that same Geomon as your pet again
 
-If many other users have set the same type of Geomon as a pet, then your Geomon will be less effective.
+**Geomon Rarity**
+
+| Rarity  | EXP  |
+|---|---|
+| Common  | 5%  |
+| Rare  | 10%  |
+| Epic  | 15%  |
+| Mystical  | 25%  |
+| Legendary  | 50%  |
+
+**Geomon Stamina**
+
+Keep in mind that your pet Geomons need to rest! 
+
+| Rarity  | Stamina  | Resting  |
+|---|---|---|
+| Common  | 6 hours  | 1 day  |
+| Rare  | 12 hours  | 2 days  |
+| Epic  | 24 hours  | 5 days  |
+| Mystical  | 48 hours  | 10 days  |
+| Legendary  | 72 hours  | 30 days  |
+
+Getting in the habit of keeping a good rotation of Geomons will ensure you benefit from their EXP bonuses. 
+
+If your Geomon are not sleeping so well, you could try an Octalysis pillow.
+
+![Here's a resting Geomon](/resources/restingyukai.png)
+
+**Geomon Scarcity Modifier**
+
+If many other users have set the same type of Geomon as a pet, then your Geomon will be less effective. In other words, paying attention to which Geomons other members are setting as a pet will allow you to choose a less-used Geomon and improve your modifier.
+
+| # Geomon as pet  | Modifer  |
+|---|---|
+| 1  | 2x  |
+| 2  | 1.6x  |
+| 3  | 1.4x  |
+| 4-5  | 1.2x  |
+| 6-9  | 1.1x  |
+| 10+  | 1x  |
+
+
+
+
 
 
 ## Set the Trap

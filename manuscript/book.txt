@@ -1,7 +1,8 @@
 welcome.md
 invest.md
-international.md
 landing.md
+companion.md
+international.md
 puzzle.md
 octalysiscore.md
 firstgeomon.md

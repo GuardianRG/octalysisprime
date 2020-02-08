@@ -30,7 +30,11 @@ what are the human functions served by mythology
 
 ## Animations
 
+Certain Mystical Geomon have what we like to call victory poses or simply animations which bring an exciting visual element. 
 
+When you set a Mystical as a pet, it will manifest in the lower-right of your avatar and continue to animate. You can see what other members have added as pets in the Social tab of your Companion. 
+
+![Here I've set the Harpie as my pet](/resources/socialtab.png)
 
 ## Pets
 

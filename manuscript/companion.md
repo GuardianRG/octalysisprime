@@ -106,11 +106,19 @@ It could be that Premium isn't for you, but perhaps I could dive into a few more
 
 Before we move on, as a reminder, here is a summary of **Premium benefits**:
 
-🎬 Access to All 500+ videos and counting! [and unlimited viewing time]
-🔮 Gain entry into weekly Office Hours with Yu-kai for custom consulting
-🤓 Private Slack Community with passionate and supportive members
-🎲 Enter the Prestigious Octalysis Design Challenges (like Food Heroes)
-🏆 Claim your Octalysis Level I & II Certificates
+A> ##### Premium Benefits
+A>
+A> Access to All 500+ videos and counting! [and unlimited viewing time]
+A> Gain entry into weekly Office Hours with Yu-kai for custom consulting
+A> Private Slack Community with passionate and supportive members
+A> Enter the Prestigious Octalysis Design Challenges (like Food Heroes)
+A> Claim your Octalysis Level I & II Certificates
 
-*If you want to decrease your monthly payment, one way is to refer new members. Any member you refer which becomes a paying member will decrease your monthly payment permanently by $10.* 
+### Can I Decrease My Monthly Payment?
+
+As a matter of fact, Yes.
+
+T> If you want to decrease your monthly payment, one way is to refer new members. Any member you refer which becomes a paying member will decrease your monthly payment permanently by $10.
+
+![When your referee becomes a paid member](referral.png)
 

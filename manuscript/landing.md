@@ -124,7 +124,13 @@ Previous Finalists and Winners had additional prizese. Simon was invited to join
 
 Finally, you might want to see if you have what it takes to earn your Octalysis Certificate Level I or Level II. (In the future, once 40 people worldwide earn Level II, the Level III Certificate may also be unlocked.)
 
-W> ##### Orange Arrows for Challenge Navigation
+W> ##### Navigate with Orange Arrows
+W>
+W> Use the Orange arrows to view Current and Past Challenges.
+W> 
+W> The Octalysis Certificates are always considered **Current**.
+W>
+W> Our resident Certificate Master, Dirk van Diepen (and Consultant with The Octalysis Group) will be grading all submissions.
 
 ![Do you have your Octalysis Certificate?](/resources/certificatelevel1.png)
 
@@ -144,3 +150,5 @@ Level II
 As you can see, there is a lot to do on the Island. 
 
 If you ever get stuck or need help, you can always email erik@chouforce.com. As your Community Manager, I'm here to help!
+
+![Invest in yourself and you can't go wrong.](/resources/yukaithinks150.png)

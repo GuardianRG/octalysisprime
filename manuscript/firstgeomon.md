@@ -28,6 +28,38 @@ what are the human functions served by mythology
 200,000 years, ice cave bears 
 
 
+## Collecting Geomon (The Album)
+
+Face off, win the Challenge. 
+
+Then, go to Album
+
+You can do many things here: 
+
+Merge, Sell, etc...
+
+Trade in future? 
+
+CD1 for Release
+
+Set as Pet (see below for more details!!!)
+
+
+## Where to Find Geomon
+
+Each Geomon prefers a certain terrain (land / air / water) and habitat (Applied Psychology, Battleground, Behavioral Economics, Challenges, Community, Case Jungle, Entrepreneurship and Business, Gameful Design, Motivational Psychology, Persuasive Technology, Technology Platforms, Yu-kai Travels). 
+
+There are a several underground details which we may share later, but you might be interested in the probability of encountering a certain Rarity of Geomon. 
+
+| Rarity  | Distribution  |
+|---|---|---|
+| Common | 30%  |
+| Rare  | 15%  |
+| Epic  | 5%  |
+| Mystical  | 1%  |
+| Legendary  | 0.2%  |
+
+
 ## Animations
 
 Certain Mystical Geomon have what we like to call victory poses or simply animations which bring an exciting visual element. 
@@ -37,6 +69,10 @@ When you set a Mystical as a pet, it will manifest in the lower-right of your av
 ![Here I've set the Harpie as my pet](/resources/socialtab.png)
 
 ## Pets
+
+IMAGE HERE
+
+Set a 
 
 **Rules**
 

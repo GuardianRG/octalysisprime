@@ -82,16 +82,16 @@ Be aware that not all **Island Sections** are available immediately upon startin
 | Island Section  | Revealed When...  |
 |---|---|
 | Octalysis Core  | At Game Start  |
-| Behavioral Economics  | CD6 (Scarcity) reaches Level 3  |
-| Motivational Psychology  | CD1 (Meaning) reaches Level 3  |
-| Persuasive Technology  | CD2 (Accomplishment) reaches Level 3  |
-| Community  | CD5 (Social Influence) reaches Level 3  |
-| Gameful Design  | CD3 (Empowerment) reaches Level 3 |
-| Applied Psychology  | CD 7 (Unpredictability) reaches Level 3  |
-| **Challenges**  | CD3 (Empowerment) reaches Level 4  |
-| Business & Entrepreneurship  | CD4 (Ownership) reaches Level 3  |
-| Yu-kai Travels  | CD 7 (Unpredictability) reaches Level 6  |
-| Case Jungle  | CD5 (Social Influence) reaches Level 4 |
+| Behavioral Economics  | CD6 (Scarcity), Level 3  |
+| Motivational Psychology  | CD1 (Meaning), Level 3  |
+| Persuasive Technology  | CD2 (Accomplishment), Level 3  |
+| Community  | CD5 (Social Influence), Level 3  |
+| Gameful Design  | CD3 (Empowerment), Level 3 |
+| Applied Psychology  | CD 7 (Unpredictability), Level 3  |
+| **Challenges**  | CD3 (Empowerment), Level 4  |
+| Business & Entrepreneurship  | CD4 (Ownership), Level 3  |
+| Yu-kai Travels  | CD 7 (Unpredictability), Level 6  |
+| Case Jungle  | CD5 (Social Influence), Level 4 |
 | Technology Platforms  | ??? |
 
 So you see? Depending on which path you would like to take through the Island, you might even choose videos to unlock those areas faster. 
@@ -100,30 +100,47 @@ So you see? Depending on which path you would like to take through the Island, y
 
 
 
-#### And One More Path
+#### And Another One
 
-Test your skills. 
+Let's imagine you learn best by DOING things and you are ready to test your skills.
 
-After you've watched 30 or 100 videos you will still have many more to watch. 
-
-But don't worry, you don't need to watch every video in your first month!
+After you've watched 30 or 100 videos you will still have many more to watch. But don't worry, you don't need to watch every video in your first month!
 
 Instead, you might consider testing your skills in the Challenge section, where we host monthly Octalysis Prime **Design Challenges**.
 
+These are found in the Challenge sectin of the Island.
 
+![Enter the Challenge Section at your own risk...](/resources/challengesection.png)
 
+Once there, you can view all current and past challenges, and also submit your own!
 
-![Do you have your Octalysis Certificate?](/resources/)
+Pay attention to email and Slack updates to learn about existing and upcoming **Design Challenges**. By participating, some members have been rewarded with the Legendary Thrakos (for the Winner) in addition to valuable EXP and Chou Coins for Finalists. 
+
+Previous Finalists and Winners had additional prizese. Simon was invited to join The Octalysis Group in 2018. Also in 2018, Mayur Kapur won the first Food Heroes Challenge and was flown to Shanghai by challenge sponsor JUCCCE.org. In 2020, Martín Villegas will take a similar trip as the Food Heroes 2 Winner.
+
+![Submitting a Challenge](/resources/challengesub.png)
+
+#### Earning Your Octalysis Certificate
+
+Finally, you might want to see if you have what it takes to earn your Octalysis Certificate Level I or Level II. (In the future, once 40 people worldwide earn Level II, the Level III Certificate may also be unlocked.)
+
+W> ##### Orange Arrows for Challenge Navigation
+
+![Do you have your Octalysis Certificate?](/resources/certificatelevel1.png)
 
 If you need help getting started on your Octalysis Certificate, check out these examples of submissions: 
 
 Level I
--
--
--
+- Myrte's [Divine Dance Center](https://island.octalysisprime.com/uploads/user_uploads/5c112a4b5136d3720c10448f/Myrte%20Verbaan%20-%20Divine%20Dance%20Center%20-%20Level%201%20Octalysis%20Certificate%20Submission%20-%20Revised1555375313774.pdf)
+- Iñaki's [ClassCraft Analysis](https://island.octalysisprime.com/uploads/user_uploads/5b5df3ac64b2bc5f0db1f235/LVL1_%20Classcraft1546715816769.pdf)
+- Martín's [DiaBeat-It](https://island.octalysisprime.com/uploads/user_uploads/5ca40c2a3bf7ef05fefdce9c/GAMIFICATION%20DESIGN%20DIABEAT-IT1556475300247.pdf)
 
 Level II
 
--
--
--
+- Albertine's [eBay Design Challenge](https://island.octalysisprime.com/uploads/user_uploads/5b86a082229e5d346a40ecea/Octalysis%20Challenge%20Ebay%20Albertine%20updated1546934887979.pdf)
+- Martín's [eBay Design Challenge](https://island.octalysisprime.com/uploads/user_uploads/5ca40c2a3bf7ef05fefdce9c/eBAY%20OCTALYSIS1554400905093.pdf)
+- Iñaki's [DragonBox Big Numbers](https://island.octalysisprime.com/uploads/user_uploads/5b5df3ac64b2bc5f0db1f235/I%C3%B1aki_Ibargoyen_Dragon%20Box%20Big%20Numbers_LVL21555004192977.pdf)
+
+As you can see, there is a lot to do on the Island. 
+
+If you ever get stuck or need help, you can always email erik@chouforce.com. As your Community Manager, I'm here to help!

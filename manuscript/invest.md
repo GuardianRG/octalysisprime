@@ -8,7 +8,7 @@ Fortunately, you don't really get to choose. You have to do BOTH, practice and p
 
 In Octalysis Prime, we recognize this tension and provide bite-sized videos that you can place into the niches and nooks of your busy day. The average video is about 10 minutes, though if you are looking to dive deep, Yu-kai has done longer videos, including a recording of a live online 3-day workshop as well as extended book osmosis of Daniel Kahneman's *Thinking, Fast & Slow*. 
 
-![Tips from the Chief Mentor](/resources/yukaithinks.png)
+![Tips from the Chief Mentor](/resources/yukaithinks150.png)
 
 I didn't write this guide by myself. Whenever you see the above image, the idea expressed there comes straight from our Octalysis Prime Chief Mentor, Yu-kai. 
 

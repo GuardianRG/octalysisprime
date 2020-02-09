@@ -10,7 +10,7 @@ The ship name doesn't affect your Octalysis Prime journey, although it does give
 
 T> ##### Looking for the Free Udemy Course?
 T>
-T> Here is the direct link to the first video in the Udemy series
+T> Here is the [direct link to the first video](https://island.octalysisprime.com/#!/core/Beginner/Udemy%20Course%20Introduction/216085271) in the Udemy series.
 
 ## Become OP (Overpowered) in Life
 

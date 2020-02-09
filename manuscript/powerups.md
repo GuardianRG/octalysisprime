@@ -1,72 +1,48 @@
 # Powerups
 
-Powerups within the OP experience represent BOOSTERS (link to OP video) (vimeo or OP?)
+Powerups within the OP experience represent **Boosters**. 
 
-And 
+Yu-kai believes that Boosters transform simple Activity Loops into **Game Loops**.
 
+Here's the Game Loop of Octalysis Prime as of January 2020:
 
-guitar hero
+![Octalysis Prime Game Loop, January 2020](/resources/gameloop2020.png)
 
-modern warfare
+Want to learn more about Game Loops, try [this video, Designing Game Loops through Boosters](https://island.octalysisprime.com/#!/gameful-design/lessons/Gameful%20Design%20Fundamentals/278928240).
 
-... blizzard 3rd one? 
+## Blue Status Powerups
 
-profitability, 13% of profit goes to team that builds it, but no-one was expecting to be a billion $... no one wants to work on new products /franshise / game because there is risk, you miss out on guitar hero 3 ... culture of incentives 
+You must reach Level 10 in a particular Core Drive in order to unlock the Powerup.
 
-then 
+![Which will you strive for?](/resources/bluestatus.png)
 
-economy design
+## Orange Status Powerups
 
-then modern warfare came out.... 
+![Great Boosters available at Orange Status](/resources/orangestatus.png)
 
-modern warfare didn't have to pay music royalties like 
+## Purple Status Powerups
 
-then
+![Even better Powerups at Purple](/resources/purplestatus.png)
 
-WOrld of Warcraft, no royalties at all 
+## Silver Status Powerups
 
+![What will you discover here?](/resources/silverstatus.png)
 
+## Gold Status Powerups
 
-Flow model with BJ Foggs behavioral model
+Gold Powerups are yet to be developed fully. 
 
-skill level and 
+As of now there are only two Gold members. Will you be the third member to reach this hallowed ground?
 
-ability match with flow, it's really skill over challenge as mathematical
+### Special Considerations
 
-one hour of exploring
+Some Powerups have particular rules to keep in mind. 
 
-mathematical formula, and recorded it 
+With additional version of this guide, we will share more about them. 
 
-one highly poular of flow chart is incorrect 
-
-(relaxation)
-
-relaxation --> boredom (the public image is incorrect)
-
-
-
-
-we have either completed/published or are planning interviews and courses with these people: 
-
-
-andrez marjeski, 6 somethings 
-
-richard bartle's player types 
-
-jane mcgonigal   (downloadable resources...jane mcgonigal read-along!) (bring over from my readalong on blog posts) (make this a leanpub book as well? ?? )
-
-what else? 
-
-
-
-### Playboy Philanthropist
-
-
+#### Playboy Philanthropist
 
 There is a cap on the coins that are shared with each member. 
 
 ![Cap of 2,000 Chou Coins to Purple Status members](/resources/playboycap.png)
 
-
-
-### All of them 

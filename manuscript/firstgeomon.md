@@ -59,6 +59,13 @@ There are a several underground details which we may share later, but you might 
 | Mystical  | 1%  |
 | Legendary  | 0.2%  |
 
+### Improving Your Chances
+
+Perhaps the best way to improve your chances of capturing more Geomon is to **Set Traps**. 
+
+more detail here or in items? 
+
+maybe the items section simply shows the item list in a table...COOL
 
 ## Animations
 

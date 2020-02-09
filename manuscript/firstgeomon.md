@@ -19,20 +19,35 @@ As there are more than 150 Game Techniques in Yu-kai's secret list, there are su
 Dedicated member Iñaki and others have created their own lists for their personal enjoyment and curiosity, however, more and more members are seeing that simply by capturing additional Geomon, they can not only be exposed to the Game Techniques but also, by using the Geomon Album located in their Inventory, learn how to use these Game Techniques through repeated exposure or spaced repetition. 
 
 
-traps and how to catch them, etc........
-
-
-what are the human functions served by mythology 
-
-
-200,000 years, ice cave bears 
-
-
 ## Collecting Geomon (The Album)
+
+One of the most exciting parts of Octalysis Prime is seeing the discovery of new Geomons. Like Darwin's theory of evolution, it seems our OP explorers will continue to unearth new species.
+
+![Can you spot it?](/resources/rockgeomon.png)
 
 Face off, win the Challenge. 
 
-Then, go to Album
+![Challenge the Golem](/resources/golemchallenge.png)
+
+After you successfully capture a Geomon, it's time to have a look at your **Geomon Album**, which can be found in your Companion's **Items** tab.
+
+![View the Album from the Items tab of the Companion](/resources/geomonalbumitem.png)
+
+Once you are viewing your Geomon Album, you will have several options available to you. 
+
+First, take a breath and a moment to enjoy the Geomon collection you have acquired. It isn't easy work capturing Geomon! Take it in. 
+
+Okay, now that you've enjoyed that, let's see what you can do here. 
+
+### Release 
+
+
+
+### Sell
+
+
+
+### Merge
 
 You can do many things here: 
 
@@ -77,9 +92,11 @@ When you set a Mystical as a pet, it will manifest in the lower-right of your av
 
 ## Pets
 
-IMAGE HERE
+![This Puffy is giving me bonus CD3 to EXP-gaining activities](/resources/puffy.png)
 
-Set a 
+You love your Geomons, so why not set one of them as a **Pet**? Simply click the the **Gray Heart** to activate a Geomon as a Pet.  
+
+Now let's next take a look at the Rules, Rarity, Stamina, and Modifiers for Geomons.
 
 **Rules**
 
@@ -89,6 +106,7 @@ Set a
 - The final XP boost should be applied to all DOMINANT CDs of that particular Geomon (rounded up)
 - Every pet Geomon will have a STAMINA associated with it - the time that geomon will remain active as a pet
 - Every pet Geomon will have a RESTING associated with it - the time before you can choose that same Geomon as your pet again
+- If you have the Pet Fanny Pack Powerup, you can assign multiple Geomons as pets
 
 **Geomon Rarity**
 
@@ -131,7 +149,9 @@ If many other users have set the same type of Geomon as a pet, then your Geomon 
 | 6-9  | 1.1x  |
 | 10+  | 1x  |
 
-
+T> ##### Pet Fanny Pack
+T>
+T> With the Pet Fanny Pack, you can set multiple Geomons as Pets.
 
 
 

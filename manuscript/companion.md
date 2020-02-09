@@ -92,9 +92,9 @@ If desired, you may cancel or pause your account. Sometimes you just need a shor
 
 !["$Undefined/month" because I am using an admin account](/resources/accountsettingsadmin.png)
 
-Additionally, you may consider **Changing your Subscription Plan**.
+Additionally, you may consider **Changing your Subscription Plan** to take advantage of Premium benefits or to save money with a Yearly membership.
 
-![Monthly and Annual Plans (best value)](/resources/changesubscription.png)
+![Monthly and Yearly Plans (best value)](/resources/changesubscription.png)
 
 The main benefits of Premium depend on exactly what your goals are: 
 
@@ -108,17 +108,20 @@ Before we move on, as a reminder, here is a summary of **Premium benefits**:
 
 A> ##### Premium Benefits
 A>
-A> Access to All 500+ videos and counting! [and unlimited viewing time]
-A> Gain entry into weekly Office Hours with Yu-kai for custom consulting
-A> Private Slack Community with passionate and supportive members
-A> Enter the Prestigious Octalysis Design Challenges (like Food Heroes)
-A> Claim your Octalysis Level I & II Certificates
+A> - Access to All 500+ videos and counting! [and unlimited viewing time]
+A> - Gain entry into weekly Office Hours with Yu-kai for custom consulting
+A> - Private Slack Community with passionate and supportive members
+A> - Enter the Prestigious Octalysis Design Challenges (like Food Heroes)
+A> - Claim your Octalysis Level I & II Certificates
 
 ### Can I Decrease My Monthly Payment?
 
 As a matter of fact, Yes.
 
-T> If you want to decrease your monthly payment, one way is to refer new members. Any member you refer which becomes a paying member will decrease your monthly payment permanently by $10.
+If you want to decrease your monthly payment, one way is to refer new members. Any member you refer which becomes a paying member will decrease your monthly payment permanently by $10.
 
 ![When your referee becomes a paid member](referral.png)
 
+T> ##### Get OP Free Forever
+T> 
+T> Assume you are on a $50/month membership. If you refer 1 new member who becomes a paying member, you reduce your monthly payment to $40/month. If you successfully refer 5, you will have OP **free forever**. That is hard to do, but it might be worth the effort.

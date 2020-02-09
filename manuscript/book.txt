@@ -2,11 +2,11 @@ welcome.md
 invest.md
 landing.md
 companion.md
-international.md
-puzzle.md
-octalysiscore.md
-firstgeomon.md
-firstchallenge.md
 economy.md
 powerups.md
-membershiptypes.md
+international.md
+octalysiscore.md
+firstgeomon.md
+challenges.md
+officehour.md
+

@@ -19,7 +19,7 @@ In addition, I plan to highlight relationships I've formed with various members,
 If you like to listen to music while reading like I do, you might try the [Ellis Marsalis Quintet Live at Dizzy's in New York, Nov 2016](https://www.youtube.com/watch?v=brkd44ERuxQ) featuring OP member **Ashlin Parker**, on Trumpet, son of OP member Frank Parker. (Ashlin uses inspiration from the Octalysis framework in his Jazz History course at Tulane to reflect on quotations from jazz greats.)
 
 
-## Aka the Wiki
+## Also Known As (AKA) the Wiki
 
 *If you go back to the Table of Contents, you can click on any section in this book to jump to that section.*
 

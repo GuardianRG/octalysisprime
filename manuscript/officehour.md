@@ -16,7 +16,7 @@ Yu-kai hosts a session with support from Community Manager Erik each Thursday, w
 
 Once a Premium member, you will have access to the schedule where you can personally save reminders to the calendar of your preference. 
 
-![Every Thursday](/resources/officehourschedule.png)
+![Every Thursday, and 2x on first Thursday of the month](/resources/officehourschedule.png)
 
 ## What kinds of questions to bring
 

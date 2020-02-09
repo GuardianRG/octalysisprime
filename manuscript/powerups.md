@@ -16,6 +16,8 @@ You must reach Level 10 in a particular Core Drive in order to unlock the Poweru
 
 ![Which will you strive for?](/resources/bluestatus.png)
 
+![Which Powerups do you want?](/resources/yukaithinks150.png)
+
 ## Orange Status Powerups
 
 ![Great Boosters available at Orange Status](/resources/orangestatus.png)
@@ -46,3 +48,10 @@ There is a cap on the coins that are shared with each member.
 
 ![Cap of 2,000 Chou Coins to Purple Status members](/resources/playboycap.png)
 
+Here is what it looks like to make your selection: 
+
+![Choose the member Status to which you will give Chou Coins](/resources/pb1.png)
+
+And here you can see the Powerup in play: 
+
+![The Playboy Philanthropist in Effect](/resources/playboyblue.png)

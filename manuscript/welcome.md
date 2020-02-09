@@ -53,6 +53,8 @@ Maybe you'd like an example of how the Wiki will change over time. Well, if you 
 
 (One of our hesitations about publishing overly much about Octalysis Prime Strategy--that is, how to best gain EXP, how to best acquire Chou Coins and join the 1%, or how to best learn about gamification so as to complete your Octalysis Level I or Level II Certificate--is that we didn't want to steal our members' destinies. For some player types, there is irreplaceable value in the discovery of a path he or she wants to take around and through the Island. In writing this Wiki, we believe that most of this explorer player type will not spend too much time in this Wiki, because they won't need it to have an energizing and motivating experience. However, perhaps you, who read this now, are among the player types who enjoy having some guidance...When the Student is ready, the Teacher appears...maybe you see this Wiki as a kind of teacher.)
 
+
+
 If you're already part of OP, you probably have a good idea about what Gamification is. If not, a good place to start is with Yu-kai Chou's book, [Actionable Gamification: Beyond Points, Badges, & Leaderboards](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049) 
 
 *Actionable Gamification* is also available as a Downloadable Item within Octalysis Prime, for 10,000 Chou Coins, which can be achieved in a relatively short time span even as a Freemium member. Much more to come on Downloadable Items when we discuss how Octalysis Prime caters to various learning styles with video content as primary and summaries, spreadsheets, member challenges, and quizzes as secondary learning options. 

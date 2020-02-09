@@ -82,16 +82,16 @@ Be aware that not all **Island Sections** are available immediately upon startin
 | Island Section  | Revealed When...  |
 |---|---|
 | Octalysis Core  | At Game Start  |
-| Behavioral Economics  | CD6 (Scarcity), Level 3  |
-| Motivational Psychology  | CD1 (Meaning), Level 3  |
-| Persuasive Technology  | CD2 (Accomplishment), Level 3  |
-| Community  | CD5 (Social Influence), Level 3  |
-| Gameful Design  | CD3 (Empowerment), Level 3 |
-| Applied Psychology  | CD 7 (Unpredictability), Level 3  |
-| **Challenges**  | CD3 (Empowerment), Level 4  |
-| Business & Entrepreneurship  | CD4 (Ownership), Level 3  |
-| Yu-kai Travels  | CD 7 (Unpredictability), Level 6  |
-| Case Jungle  | CD5 (Social Influence), Level 4 |
+| Behavioral Economics  | CD6, Level 3  |
+| Motivational Psychology  | CD1, Level 3  |
+| Persuasive Technology  | CD2, Level 3  |
+| Community  | CD5, Level 3  |
+| Gameful Design  | CD3, Level 3 |
+| Applied Psychology  | CD 7, Level 3  |
+| **Challenges**  | CD3, Level 4  |
+| Business & Entrepreneurship  | CD4, Level 3  |
+| Yu-kai Travels  | CD 7, Level 6  |
+| Case Jungle  | CD5, Level 4 |
 | Technology Platforms  | ??? |
 
 So you see? Depending on which path you would like to take through the Island, you might even choose videos to unlock those areas faster. 

@@ -4,9 +4,7 @@ landing.md
 companion.md
 economy.md
 powerups.md
-international.md
 octalysiscore.md
 firstgeomon.md
-challenges.md
 officehour.md
 

@@ -37,28 +37,29 @@ Once you are viewing your Geomon Album, you will have several options available 
 
 First, take a breath and a moment to enjoy the Geomon collection you have acquired. It isn't easy work capturing Geomon! Take it in. 
 
+![Have a look at your Geomons in the Album](/resources/geomonalbumview.png)
+
 Okay, now that you've enjoyed that, let's see what you can do here. 
 
 ### Release 
 
+One way to get additional CD1 EXP is to release a Geomon. As I have 4 Cottles in the below example, I am comfortable setting one of them free. 
 
+![50 CD1 EXP (before powerup bonuses) for the release.](/resources/releasecottle.png)
 
 ### Sell
 
+You can sell your Geomons for Chou Coins. The Geomon dealers will offer you a price based upon the relative scarcity of that Geomon in the wild. 
 
+Once you select **Sell** from the green symbol on the Geomon Card, you will have 60 seconds to consider the deal at that price. You can check the price an unlimited number of times. 
+
+![I don't think I'll be selling my mystical Leprechaun just yet.](/resources/lepresell.png)
 
 ### Merge
 
-You can do many things here: 
+Once you unlock the Core Drive 6 Purple Powerup--**Geomon Merger**--you gain the ability to merge 3 Geomons of the same kind to get a new, rarer Geomon.
 
-Merge, Sell, etc...
-
-Trade in future? 
-
-CD1 for Release
-
-Set as Pet (see below for more details!!!)
-
+This is something to look forward to if you are still a new arrival to the OP Island experience.
 
 ## Where to Find Geomon
 
@@ -78,9 +79,13 @@ There are a several underground details which we may share later, but you might 
 
 Perhaps the best way to improve your chances of capturing more Geomon is to **Set Traps**. 
 
-more detail here or in items? 
+![There are several types of traps](/resources/traps.png)
 
-maybe the items section simply shows the item list in a table...COOL
+Once you've set your trap, pay attention each day to see if you catch a Geomon. 
+
+![Try Setting a Trap](/resources/trapset.png)
+
+Notice in the above that this trap attempt is 3 out of 3 (the previous attempts haven't captured a geomon). 
 
 ## Animations
 
@@ -122,6 +127,10 @@ Now let's next take a look at the Rules, Rarity, Stamina, and Modifiers for Geom
 
 Keep in mind that your pet Geomons need to rest! 
 
+![My Harpy needs its rest](/resources/harpysleep.png)
+
+Getting in the habit of keeping a good rotation of Geomons will ensure you benefit from their EXP bonuses. 
+
 | Rarity  | Stamina  | Resting  |
 |---|---|---|
 | Common  | 6 hours  | 1 day  |
@@ -130,11 +139,9 @@ Keep in mind that your pet Geomons need to rest!
 | Mystical  | 48 hours  | 10 days  |
 | Legendary  | 72 hours  | 30 days  |
 
-Getting in the habit of keeping a good rotation of Geomons will ensure you benefit from their EXP bonuses. 
-
 If your Geomon are not sleeping so well, you could try an Octalysis pillow.
 
-![Here's a resting Geomon](/resources/restingyukai.png)
+![Here's another resting Geomon](/resources/restingyukai.png)
 
 **Geomon Scarcity Modifier**
 
@@ -152,19 +159,3 @@ If many other users have set the same type of Geomon as a pet, then your Geomon 
 T> ##### Pet Fanny Pack
 T>
 T> With the Pet Fanny Pack, you can set multiple Geomons as Pets.
-
-
-
-
-## Set the Trap
-
-![Try Setting a Trap](/resources/trapset.png)
-
-> Trap is set!
->
-> Tries: 3 out of 3
-> This is your last day and the trap hasn’t captured anything yet.
->
-> IMPORTANT: If the trap captures a geomon, you will have 48 hours to get it out of the trap and into your collection or it will escape!
-
-Notice in the above that this trap attempt is 3 out of 3 (the previous attempts haven't captured a geomon). 

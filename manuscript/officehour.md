@@ -12,12 +12,21 @@ Yu-kai hosts a session with support from Community Manager Erik each Thursday, w
 
 ![Office Hours every Thursday](/resources/joiningoffice.png)
 
+## The Schedule
+
+Once a Premium member, you will have access to the schedule where you can personally save reminders to the calendar of your preference. 
+
+![Every Thursday](/resources/officehourschedule.png)
+
 ## What kinds of questions to bring
 
 Yu-kai is yet to be asked a question he did not try to answer. You may ask about his personal life, his previous businesses, The Octalysis Group, anything about the Roadmap of Octalysis Prime, and more importantly, about your own challenge submissions, projects, and business applications. 
 
 With guidance from Yu-kai, members like Bo or Mike have developed blogs (Bo a leading education blog in Denmark, and Mike's on mediation, finneycanhelp.com). 
 
+![Will you bring a question I can't answer...?](/resources/yukaithinks150.png)
+
 ## What if I miss the session? 
 
 Simply send a message to Erik on Slack or at erik@chouforce.com for a recent recording. 
+

@@ -60,13 +60,57 @@ If you want to skip to that section, click HERE. 777111 CREATE TAG 111777
 ## Social 
 
 
+The top section of the Social tab displays your avatar, octagon, pet, as well as your basic member information, including your member since date, your follower and following counts, and a editable text field to display your status.
+
+Next, your Friends are displayed, including your **Success Buddy**. Use the arrow at the right of the panel to scroll through your Friends.
+
+![Check replies to comments in videos](/resources/socialmessages.png)
+
+At the bottom of the Social tab you'll find an area with recent **Messages** and recent **Events**. This is a great place to reply to comments and see if your Friends captured Geomon that you don't have yet.
+
+![Notice the Geomons my friends caught](/resources/socialevents.png)
+
+What would you like to see changed about the Social tab? Email erik@chouforce.com. 
+
 ## Profile
 
-Where you can add more info...which is displayed to other members.
+The Profile allows you to change your Avatar and customize it to your liking. Additionally, you may updated your name, country, industry, profession, Hobby, and of course your Super Power. 
 
-Check your account info...
+If you change anything, remember to click Save at the bottom right.
 
-And see how much your monthly payment is. (If you paid annually, you will have already paid up front for the entire year.) 
+![My profile](/resources/profile.png)
 
-If you want to decrease your monthly payment, one way is to refer new members. Any member you refer which becomes a paying member will decrease your monthly payment permanently by $10. 
+Now, you may also want to see the payment details of your account. Simply click on **Account Settings**.
+
+### Account Settings
+
+In Account Settings, you can view the email associated with your account, change your password (8-character minimum). 
+
+Also, you can see your current **Billing Information**. 
+
+If desired, you may cancel or pause your account. Sometimes you just need a short break before returning, and Bruna, our Operations Manager, will happily setup a pause and reminder for you at the future date of your choosing. Thanks Bruna!
+
+!["$Undefined/month" because I am using an admin account](/resources/accountsettingsadmin.png)
+
+Additionally, you may consider **Changing your Subscription Plan**.
+
+![Monthly and Annual Plans (best value)](/resources/changesubscription.png)
+
+The main benefits of Premium depend on exactly what your goals are: 
+
+Some members benefit greatly from the Free membership, but also want the private Slack community and the direct contact with Yu-kai during Office Hours. Here's an example of [a recent Office Hours](https://zoom.us/recording/share/Ui8PujK5RWUivT5u99Iqo4-LOcVD8nXsk9l6MEn5yZqwIumekTziMw).
+
+What are your goals and why did you join OP? 
+
+It could be that Premium isn't for you, but perhaps I could dive into a few more of the Premium benefits knowing more about you. Feel free to send an email with your specific questions to erik@chouforce.com and I'll help you make the decision, but the decision is yours!
+
+Before we move on, as a reminder, here is a summary of **Premium benefits**:
+
+🎬 Access to All 500+ videos and counting! [and unlimited viewing time]
+🔮 Gain entry into weekly Office Hours with Yu-kai for custom consulting
+🤓 Private Slack Community with passionate and supportive members
+🎲 Enter the Prestigious Octalysis Design Challenges (like Food Heroes)
+🏆 Claim your Octalysis Level I & II Certificates
+
+*If you want to decrease your monthly payment, one way is to refer new members. Any member you refer which becomes a paying member will decrease your monthly payment permanently by $10.* 
 

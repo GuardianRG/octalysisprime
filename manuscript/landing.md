@@ -49,3 +49,81 @@ T>
 T> In the coming days, watch for an email to which OP members welcomed you to the Island.
 
 ![It's a friendly community here on the Island](/resources/popular.png)
+
+
+### What do I do next? 
+
+Your next decision is where to start on the Island. 
+
+If you came to the OP Island seeking Yu-kai's Udemy Course, here is [the direct link to the Course Introduction](https://island.octalysisprime.com/#!/core/Beginner/Udemy%20Course%20Introduction/216085271). You'll find [the full series in the Octalysis Core](https://island.octalysisprime.com/#!/core/Beginner/Udemy%20Course%20Introduction/). 
+
+Maybe you came to Octalysis Prime with a different purpose, some of which were already outline in the section above, in Welcome, called "What is the value I get from OP?". Feel free to review those reasons before moving on. 
+
+#### A Possible Path
+
+Let's imagine you came to OP with some understanding of the Octalysis gamification framework in the abstract. But you want to test your skills and actually apply gamification to your own life projects or business. 
+
+For example, you might already have stumbled upon Yu-kai's **Game Techniques**. But how do you know [which to use in your own designs](https://island.octalysisprime.com/#!/core/Intermediate/Game%20Design%20Techniques%20(Intermediate)/218554735) (link to video)? 
+
+![How to use Octalysis to determine Game Techniques](/resources/whichgts.png)
+
+In [this video](https://island.octalysisprime.com/#!/core/Intermediate/Game%20Design%20Techniques%20(Intermediate)/218554735), Yu-kai reminds us that a solid understanding of the 8 Core Drives is a prerequisite to understanding which Game Techniques might work well together in your holistic design. Slapping a bunch of Game Techniques together probably won't work. Designing tight and engaging systems is a delicate business. 
+
+#### Another Possible Path
+
+Let's imagine you came to Octalysis Prime with a belief that learning more about Octalysis gamification could augment your career. 
+
+One way to consider your career path is to learn from others. 
+
+Yu-kai himself shares his background in the **Career Life Field** (accessible in the Octalysis Core), and Yu-kai shares even more in the **Business & Entrepreneurship** Island Section. 
+
+Be aware that not all **Island Sections** are available immediately upon starting your journey. You will have to do some work to push away the clouds that have settled on the Island. 
+
+| Island Section  | Revealed When...  |
+|---|---|
+| Octalysis Core  | At Game Start  |
+| Behavioral Economics  | CD6 (Scarcity) reaches Level 3  |
+| Motivational Psychology  | CD1 (Meaning) reaches Level 3  |
+| Persuasive Technology  | CD2 (Accomplishment) reaches Level 3  |
+| Community  | CD5 (Social Influence) reaches Level 3  |
+| Gameful Design  | CD3 (Empowerment) reaches Level 3 |
+| Applied Psychology  | CD 7 (Unpredictability) reaches Level 3  |
+| **Challenges**  | CD3 (Empowerment) reaches Level 4  |
+| Business & Entrepreneurship  | CD4 (Ownership) reaches Level 3  |
+| Yu-kai Travels  | CD 7 (Unpredictability) reaches Level 6  |
+| Case Jungle  | CD5 (Social Influence) reaches Level 4 |
+| Technology Platforms  | ??? |
+
+So you see? Depending on which path you would like to take through the Island, you might even choose videos to unlock those areas faster. 
+
+*We will have much more to share about the EXP you gain from watching videos in the next chapter.*
+
+
+
+#### And One More Path
+
+Test your skills. 
+
+After you've watched 30 or 100 videos you will still have many more to watch. 
+
+But don't worry, you don't need to watch every video in your first month!
+
+Instead, you might consider testing your skills in the Challenge section, where we host monthly Octalysis Prime **Design Challenges**.
+
+
+
+
+![Do you have your Octalysis Certificate?](/resources/)
+
+If you need help getting started on your Octalysis Certificate, check out these examples of submissions: 
+
+Level I
+-
+-
+-
+
+Level II
+
+-
+-
+-

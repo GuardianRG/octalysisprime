@@ -57,3 +57,16 @@ jane mcgonigal   (downloadable resources...jane mcgonigal read-along!) (bring ov
 
 what else? 
 
+
+
+### Playboy Philanthropist
+
+
+
+There is a cap on the coins that are shared with each member. 
+
+![Cap of 2,000 Chou Coins to Purple Status members](/resources/playboycap.png)
+
+
+
+### All of them 

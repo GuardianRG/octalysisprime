@@ -60,7 +60,7 @@ If you're already part of OP, you probably have a good idea about what Gamificat
 Before I share how to get properly started in Octalysis Prime, let me provide responses to a few of our most-often asked questions.
 
 
-## Is this a game? 🎮
+## Is this a game?
 
 OP is not exactly a game, but it is a (mainly video) learning experience with game mechanics in them. 
 
@@ -73,7 +73,7 @@ Other members don’t care about the “game” so much.
 They prefer to participate in the OP Design Challenges, watch all Yu-kai’s videos, or bring their actual projects to Yu-kai’s Office Hours every Thursday.
 
 
-## What is the value I get from OP? 🎯
+## What is the value I get from OP?
 
 Each member’s journey is different. How do we know? Because we ask every new member when they join.
 
@@ -96,7 +96,7 @@ Despite the many reasons to join and stay for a long time, there are a few broad
 * Once you upgrade to Premium, you gain access to a private Slack group, attendance at weekly Office Hours with Yu-kai Chou, and the ability to enter periodic Octalysis Prime Design Challenges to test your skills and gain gamification certificates.
 
 
-## When is a mobile version coming? 📱
+## When is a mobile version coming?
 
 Yu-kai believes in the philosophy of being excellent in a few places instead of sucking everywhere. As a result, we want to first make the desktop browser experience as amazing as possible (85% of people who go on yukaichou.com are from desktop) before diluting our experiences on other platforms. 
 

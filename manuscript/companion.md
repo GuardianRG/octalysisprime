@@ -1,22 +1,25 @@
 # Your Octalysis Companion
 
+![Your Companion is Free!](/resources/freecompanion.png)
+
 After you've unlocked your Octalysis Companion (by completing the Onboarding drag-and-drop puzzles), you have opened up several new beneficial areas. 
 
 These are: 
 
-1. News
+1. **News**
 
-2. Stats
+2. **Stats**
 
-3. Items
+3. **Items**
 
-4. Social
+4. **Social**
 
-5. Profile
+5. **Profile**
 
 This section of the guide will give you more information about each of these 'tabs' within the Companion. 
 
 ## News
+
 
 
 ## Stats

@@ -16,4 +16,4 @@ Erik van Mechelen
 
 *PS If you are referring new members, feel free to download this guide and share it with them.*
 
-![Thank you for reading & Prime On!](/resources/yukaithinks.png)
+![Thank you for reading & Prime On!](/resources/yukaithinks150.png)

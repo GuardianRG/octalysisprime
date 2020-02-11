@@ -130,7 +130,7 @@ Previous Finalists and Winners had additional prizese. Simon was invited to join
 
 #### Earning Your Octalysis Certificate
 
-Finally, you might want to see if you have what it takes to earn your Octalysis Certificate Level I or Level II. (In the future, once 40 people worldwide earn Level II, the Level III Certificate may also be unlocked.)
+Finally, you might want to see if you have what it takes to earn your Octalysis Certificate Level I or even Level II.
 
 W> ##### Navigate with Orange Arrows
 W>
@@ -148,12 +148,6 @@ Level I
 - Myrte's [Divine Dance Center](https://island.octalysisprime.com/uploads/user_uploads/5c112a4b5136d3720c10448f/Myrte%20Verbaan%20-%20Divine%20Dance%20Center%20-%20Level%201%20Octalysis%20Certificate%20Submission%20-%20Revised1555375313774.pdf)
 - Iñaki's [ClassCraft Analysis](https://island.octalysisprime.com/uploads/user_uploads/5b5df3ac64b2bc5f0db1f235/LVL1_%20Classcraft1546715816769.pdf)
 - Martín's [DiaBeat-It](https://island.octalysisprime.com/uploads/user_uploads/5ca40c2a3bf7ef05fefdce9c/GAMIFICATION%20DESIGN%20DIABEAT-IT1556475300247.pdf)
-
-Level II
-
-- Albertine's [eBay Design Challenge](https://island.octalysisprime.com/uploads/user_uploads/5b86a082229e5d346a40ecea/Octalysis%20Challenge%20Ebay%20Albertine%20updated1546934887979.pdf)
-- Martín's [eBay Design Challenge](https://island.octalysisprime.com/uploads/user_uploads/5ca40c2a3bf7ef05fefdce9c/eBAY%20OCTALYSIS1554400905093.pdf)
-- Iñaki's [DragonBox Big Numbers](https://island.octalysisprime.com/uploads/user_uploads/5b5df3ac64b2bc5f0db1f235/I%C3%B1aki_Ibargoyen_Dragon%20Box%20Big%20Numbers_LVL21555004192977.pdf)
 
 As you can see, there is a lot to do on the Island. 
 

@@ -143,7 +143,7 @@ Below is a set of examples on how to use the 8 Core Drives to interpret motivati
 
 If you weren't ready before, you surely are ready now. Let's get started on the Island! 
 
-![Check out the OP Wiki too!](/resources/yukaithinks150.png)
+![Check out the OP Wiki too!](/resources/opwiki.png)
 
 In early 2020, we started an online Wiki on Fandom, called the [Octalysis Prime Wiki](https://octalysisprime.fandom.com/wiki/Octalysis_Prime_Wiki). 
 

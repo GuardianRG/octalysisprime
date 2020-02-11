@@ -2,7 +2,7 @@
 
 ![Congratulations: You've decided to invest in yourself](/resources/investnow.png)
 
-You've arrived on the **Vingilot**. 
+You've arrived to the [Octalysis Prime](https://octalysisprime.com) Island on the **Vingilot**. 
 
 In case you were wondering, the Vingilot was the ship in which Eärendil and Elwing sailed to Aman in order to seek pardon and assistance from the Valar. (This will make more sense if you are a *Lord of the Rings* fan.)
 

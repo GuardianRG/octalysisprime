@@ -2,7 +2,7 @@
 
 ![Your Companion is Free!](/resources/freecompanion.png)
 
-After you've unlocked your Octalysis Companion (by completing the Onboarding drag-and-drop puzzles), you have opened up several new beneficial areas. 
+After you've unlocked your Octalysis Companion (by completing the Onboarding drag-and-drop puzzles), you have opened up several new beneficial areas on the [Octalysis Prime](https://octalysisprime.com) Island. 
 
 These are: 
 

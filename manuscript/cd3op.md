@@ -8,7 +8,7 @@ Maybe you'd like an example of how the Wiki will change over time. Well, if you 
 
 Prime On!
 
-See you on the Island. 
+See you on the [Octalysis Prime](https://octalysisprime.com) Island. 
 
 Sincerely, 
 

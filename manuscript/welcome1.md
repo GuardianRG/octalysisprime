@@ -8,11 +8,11 @@ Yu-kai wrote the following words in the introduction to [Actionable Gamification
 
 ![Yu-kai shows off his book, now available in hardcover & on Audible](/resources/agb01.png)
 
-My name is Erik van Mechelen and I've worked with Yu-kai for about four years. In that time, I've come to know something about the Octalysis framework within the walls of Octalysis Prime and also through weekly conversations with Yu-kai. (You might consider 'Conversations with Yu-kai' as a possible subtitle of this manual.)
+My name is Erik van Mechelen and I've worked with Yu-kai for about four years. In that time, I've come to know something about the Octalysis framework within the walls of [Octalysis Prime](https://octalysisprime.com) and also through weekly conversations with Yu-kai. (You might consider 'Conversations with Yu-kai' as a possible subtitle of this manual.)
 
 ## The Path/s Ahead
 
-This guide will get you started in exploring Octalysis Prime, which is the best way to enter into further exploration of gamification and behavior design.
+This guide will get you started in exploring [Octalysis Prime](https://octalysisprime.com), which is the best way to enter into further exploration of gamification and behavior design.
 
 To emphasize, the space of gamification and behavior design is vast, and the applications many. Octalysis Prime is a great educational venue in which to hone your skills before setting out into the world again, and while you are here, there are many paths, and people, to meet.
 

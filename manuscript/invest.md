@@ -6,7 +6,7 @@ It is also quite hard to know when it is the right time to improve your craft, a
 
 Fortunately, you don't really get to choose. You have to do BOTH, practice and perform, at all times. That is part of the nature of life.
 
-In Octalysis Prime, we recognize this tension and provide bite-sized videos that you can place into the niches and nooks of your busy day. The average video is about 10 minutes, though if you are looking to dive deep, Yu-kai has done longer videos, including a recording of a live online 3-day workshop as well as extended book osmosis of Daniel Kahneman's *Thinking, Fast & Slow*. 
+In [Octalysis Prime](https://octalysisprime.com), we recognize this tension and provide bite-sized videos that you can place into the niches and nooks of your busy day. The average video is about 10 minutes, though if you are looking to dive deep, Yu-kai has done longer videos, including a recording of a live online 3-day workshop as well as extended book osmosis of Daniel Kahneman's *Thinking, Fast & Slow*. 
 
 ![Tips from the Chief Mentor](/resources/yukaithinks150.png)
 

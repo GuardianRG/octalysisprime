@@ -142,12 +142,12 @@ W> Our resident Director of Quality, Dirk van Diepen (and Consultant with The Oc
 
 ![Do you have your Octalysis Certificate?](/resources/certificatelevel1.png)
 
-If you need help getting started on your Octalysis Certificate, check out these examples of submissions: 
+If you need help getting started on your Octalysis Certificate, here's an example of a quality submission: 
 
 Level I
 - Myrte's [Divine Dance Center](https://island.octalysisprime.com/uploads/user_uploads/5c112a4b5136d3720c10448f/Myrte%20Verbaan%20-%20Divine%20Dance%20Center%20-%20Level%201%20Octalysis%20Certificate%20Submission%20-%20Revised1555375313774.pdf)
-- Iñaki's [ClassCraft Analysis](https://island.octalysisprime.com/uploads/user_uploads/5b5df3ac64b2bc5f0db1f235/LVL1_%20Classcraft1546715816769.pdf)
-- Martín's [DiaBeat-It](https://island.octalysisprime.com/uploads/user_uploads/5ca40c2a3bf7ef05fefdce9c/GAMIFICATION%20DESIGN%20DIABEAT-IT1556475300247.pdf)
+
+- Sameh's [Plastic Water Bottles & Water Bottling Industry](https://island.octalysisprime.com/uploads/user_uploads/5d63e7659700830c17ea5e37/gamification%20certificate1.221575751379222.pdf)
 
 As you can see, there is a lot to do on the Island. 
 

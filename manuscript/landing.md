@@ -92,7 +92,7 @@ Be aware that not all **Island Sections** are available immediately upon startin
 | Business & Entrepreneurship  | CD4, Level 3  |
 | Yu-kai Travels  | CD 7, Level 6  |
 | Case Jungle  | CD5, Level 4 |
-| Technology Platforms  | ??? |
+| Technology Platforms  | CD4, Level 8 |
 
 So you see? Depending on which path you would like to take through the Island, you might even choose videos to unlock those areas faster. 
 
@@ -102,9 +102,17 @@ So you see? Depending on which path you would like to take through the Island, y
 
 #### And Another One
 
-Let's imagine you learn best by DOING things and you are ready to test your skills.
+Let's imagine you learn best by **doing** things and you are ready to test your skills.
 
-After you've watched 30 or 100 videos you will still have many more to watch. But don't worry, you don't need to watch every video in your first month!
+After you've watched 30 or even 100 videos you will still have many more to watch. But don't worry, you don't need to watch every video in your first month!
+
+T> #### Spaced Repetition
+T>
+T> Returning to previously-watched videos is great for learning. 
+T>
+T> Because Yu-kai's videos are often packed with information, they have high 'replay value'. And yet, we know some of you are quite extrinsically motivated, so we created a new item: the **Orb of Channeled Wisdome**. By using this orb (there are others), you can even receive EXP for watching 'old' videos.
+
+Maybe you don't want to watch videos over and over. 
 
 Instead, you might consider testing your skills in the Challenge section, where we host monthly Octalysis Prime **Design Challenges**.
 
@@ -114,7 +122,7 @@ These are found in the Challenge sectin of the Island.
 
 Once there, you can view all current and past challenges, and also submit your own!
 
-Pay attention to email and Slack updates to learn about existing and upcoming **Design Challenges**. By participating, some members have been rewarded with the Legendary Thrakos (for the Winner) in addition to valuable EXP and Chou Coins for Finalists. 
+Pay attention to email and Slack updates to learn about existing and upcoming **Design Challenges**. By participating, some members have been rewarded with the Legendary **Thrakos** Geomon (for the Winner) in addition to valuable EXP and Chou Coins for Finalists. 
 
 Previous Finalists and Winners had additional prizese. Simon was invited to join The Octalysis Group in 2018. Also in 2018, Mayur Kapur won the first Food Heroes Challenge and was flown to Shanghai by challenge sponsor JUCCCE.org. In 2020, Martín Villegas will take a similar trip as the Food Heroes 2 Winner.
 

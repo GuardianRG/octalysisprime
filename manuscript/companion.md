@@ -165,3 +165,5 @@ If you want to decrease your monthly payment, one way is to refer new members. A
 T> ##### Get OP Free Forever
 T> 
 T> Assume you are on a $50/month membership. If you refer 1 new member who becomes a paying member, you reduce your monthly payment to $40/month. If you successfully refer 5, you will have OP **free forever**. That is hard to do, but it might be worth the effort.
+
+*As always, if you have questions, email erik@chouforce.com or check out the [OP Wiki](https://octalysisprime.fandom.com/wiki/Octalysis_Prime_Wiki).*

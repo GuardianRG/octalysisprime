@@ -55,3 +55,7 @@ Here is what it looks like to make your selection:
 And here you can see the Powerup in play: 
 
 ![The Playboy Philanthropist in Effect](/resources/playboyblue.png)
+
+![Have you visited the OP Wiki?](/resources/yukaithinks150.png)
+
+*Once again, there is much more information to be found on the [OP Wiki](https://octalysisprime.fandom.com/wiki/Octalysis_Prime_Wiki).*

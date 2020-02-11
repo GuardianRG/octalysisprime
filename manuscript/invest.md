@@ -10,8 +10,8 @@ In Octalysis Prime, we recognize this tension and provide bite-sized videos that
 
 ![Tips from the Chief Mentor](/resources/yukaithinks150.png)
 
-I didn't write this guide by myself. Whenever you see the above image, the idea expressed there comes straight from our Octalysis Prime Chief Mentor, Yu-kai. 
+I didn't write this guide all by myself. Whenever you see the above image, the idea expressed is my imaginative interpretation of our Octalysis Prime Chief Mentor, Yu-kai. 
 
-In fact, you might be wondering about a few other members on the team, like Jun, Tiago, Bruna, Leo, Howie, Kevin, and Tim. 
+In fact, you might be wondering about a few other members on the team, like Jun, Tiago, Bruna, Leo, Howie, Kevin, Tim and Dirk. In the language of RPGs, this is quite the party!
 
-As the guide unfolds, you may be introduced to them. Keep your eyes open!
+*Maybe you can learn more about them on the [OP Wiki](https://octalysisprime.fandom.com/wiki/Octalysis_Prime_Wiki)...*

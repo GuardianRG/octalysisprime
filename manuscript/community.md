@@ -12,19 +12,25 @@ Treat this community like a local club. Be friendly, helpful, and generous of sp
 
 ![Introduce yourself so we can get to know you](/resources/introduce.png)
 
+*Remember, you'll need to be a Premium member to gain access to the private Slack community.*
+
 ## Learn
 
+There is much to learn from your fellow members, with students and professionals from over 20 countries and numerous job types and industries. 
 
+Message me, @erikvanmechelen on Slack to have me connect you with someone in your field. This doesn't always lead to a new friend or colleague, but sometimes these connections create new networks of possibility in the future.
 
 ## Grow
 
-Work together on Challenges.
+In the second Food Heroes Challenge, about 10 members joined the Food Heroes channel in Slack and worked together, sharing their ideas and questions as they developed their submissions. This was great to see, especially since you wouldn't expect people to work together on a competitive challenge where the reward was a trip to Shanghai to work with the Food Heroes team. 
 
-...
+And yet, in OP, things are sometimes different--in a good way--from the 'real' world. 
 
-Like the #FoodHeroes channel.
+I hope you'll have experiences like this, too, or help to create them for others. 
 
-Link to blog post I will make about Martín's winning submission.
+## Teach
 
-Ulric commented in an Office Hour session that even when he doesn't win, he knows he has improved his gamification knowledge and the application of that knowledge. Such an understanding is invaluable (priceless) when seeking personal growth. We welcome moments of inspiration like this, and even have a place to share them in #Member-Wins. 
+Ulric commented in an Office Hour session that even when he doesn't win a Challenge, he knows he has improved his gamification knowledge and the application of that knowledge. Such an understanding is invaluable (priceless) when seeking personal growth. We welcome moments of inspiration like this, and even have a place to share them in #Member-Wins. 
+
+Thank you for teaching us all, Ulric. 
 

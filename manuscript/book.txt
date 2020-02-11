@@ -1,10 +1,11 @@
-welcome.md
+welcome1.md
 invest.md
 landing.md
 companion.md
 economy.md
 powerups.md
-octalysiscore.md
 firstgeomon.md
 officehour.md
+community.md
+cd3op.md
 

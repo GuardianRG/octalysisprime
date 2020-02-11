@@ -130,7 +130,7 @@ Previous Finalists and Winners had additional prizese. Simon was invited to join
 
 #### Earning Your Octalysis Certificate
 
-Finally, you might want to see if you have what it takes to earn your Octalysis Certificate Level I or even Level II.
+Finally, you might want to see if you have what it takes to earn your Octalysis Certificate Level I or even Level II. (Once 40 people worldwide have achieved the Level II Certificate, we may open the door to Level III Certificates!)
 
 W> ##### Navigate with Orange Arrows
 W>
@@ -138,7 +138,7 @@ W> Use the Orange arrows to view Current and Past Challenges.
 W> 
 W> The Octalysis Certificates are always considered **Current**.
 W>
-W> Our resident Certificate Master, Dirk van Diepen (and Consultant with The Octalysis Group) will be grading all submissions.
+W> Our resident Director of Quality, Dirk van Diepen (and Consultant with The Octalysis Group) will be grading all submissions.
 
 ![Do you have your Octalysis Certificate?](/resources/certificatelevel1.png)
 

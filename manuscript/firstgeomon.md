@@ -4,6 +4,10 @@ Ever since Yu-kai's release of *Actionable Gamification: Beyond Points, Badges, 
 
 Here on the Island of Octalysis Prime, Yu-kai saw an opportunity to bring the **Geomons** to life and also serve the desire to learn more about the Game Techniques. 
 
+You might be wondering where the Geomons came from. Well, it was actually Yu-kai's friend Ivan Lee created a game called Geomon, which Yahoo purchased but shut down. He told Yu-kai should he ever want the IP for a project related to Octalysis that he'd be open to that. 
+
+And so the Geomons live on! 
+
 As of early 2020, Today there are more than 40 Geomon on the Island.
 
 As there are more than 150 Game Techniques in Yu-kai's secret list, there are surely more Geomon to come!

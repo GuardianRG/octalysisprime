@@ -2,7 +2,6 @@ welcome1.md
 invest.md
 landing.md
 companion.md
-economy.md
 powerups.md
 firstgeomon.md
 officehour.md

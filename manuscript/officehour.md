@@ -28,5 +28,5 @@ With guidance from Yu-kai, members like Bo or Mike have developed blogs (Bo a le
 
 ## What if I miss the session? 
 
-Simply send a message to Erik on Slack or at erik@chouforce.com for a recent recording. 
+Simply head over to the Community Updates area (the Fireplace) and click on the Wooden Sign. You will find there the **Office Hour Archive** as well as Weekly News!
 

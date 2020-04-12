@@ -8,7 +8,7 @@ You might be wondering where the Geomons came from. Well, it was actually Yu-kai
 
 And so the Geomons live on! 
 
-As of early 2020, Today there are more than 40 Geomon on the Island.
+As of early 2020, Today there are more than 75 Geomon on the Island.
 
 As there are more than 150 Game Techniques in Yu-kai's secret list, there are surely more Geomon to come!
 

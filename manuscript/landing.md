@@ -96,6 +96,8 @@ Be aware that not all **Island Sections** are available immediately upon startin
 
 So you see? Depending on which path you would like to take through the Island, you might even choose videos to unlock those areas faster. 
 
+NOTE: As a Freemium member, you will be unable to submit for Octalysis Certificates, however you can still access the Challenge Section to learn from other members. Once you have upgraded to Premium, you can submit your projects for possible Certification by our Director of Quality, Dirk van Diepen, and our Knowledge Wizard, Myrte Verbaan.
+
 *We will have much more to share about the EXP you gain from watching videos in the next chapter.*
 
 
@@ -110,7 +112,7 @@ T> #### Spaced Repetition
 T>
 T> Returning to previously-watched videos is great for learning. 
 T>
-T> Because Yu-kai's videos are often packed with information, they have high 'replay value'. And yet, we know some of you are quite extrinsically motivated, so we created a new item: the **Orb of Channeled Wisdome**. By using this orb (there are others), you can even receive EXP for watching 'old' videos.
+T> Because Yu-kai's videos are often packed with information, they have high 'replay value'. And yet, we know some of you are quite extrinsically motivated, so we created a new item: the **Orb of Channeled Wisdom**. By using this orb (there are others), you can even receive EXP for watching 'old' videos.
 
 Maybe you don't want to watch videos over and over. 
 
@@ -138,7 +140,7 @@ W> Use the Orange arrows to view Current and Past Challenges.
 W> 
 W> The Octalysis Certificates are always considered **Current**.
 W>
-W> Our resident Director of Quality, Dirk van Diepen (and Consultant with The Octalysis Group) will be grading all submissions.
+W> Our resident Director of Quality, Dirk van Diepen (and Consultant with The Octalysis Group) will be grading all submissions with the assistance of the Knowledge Wizard, Myrte Verbaan.
 
 ![Do you have your Octalysis Certificate?](/resources/certificatelevel1.png)
 
